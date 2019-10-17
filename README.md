@@ -1,4 +1,4 @@
-# Datasets and codes for Deep Multilevel Multimodal Fusion for Human Action Recognition (recently published in the IEEE Sensors Journal)
+# Datasets and codes for Human Action Recognition Using Deep Multilevel Multimodal (M2) Fusion of Depth and Inertial Sensors (recently published in the IEEE Sensors Journal)
 
 1)	Download the datsets from the link : https://www.kaggle.com/zaamad/deep-multilevel-fusion-datasets-and-codes
 2)	 The ImageFolders_KinectV2Dataset folder has all the images related to Kinect V2 dataset.
