@@ -19,10 +19,15 @@ Citation
 If you find the work presented and codes useful for your research then please cite the following Paper.
 
   @article {ahmad2018human,
+  
   author    = {Zeeshan Ahmad and Naimul Mefraz Khan},
+  
   title     = {Human Action Recognition Using Deep Multilevel Multimodal (M2) Fusion of Depth and Inertial Sensors},
+  
   journal={IEEE Sensors Journal},
+  
   year      = {2019},
+  
   publisher = {IEEE},
   
 }
