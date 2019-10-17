@@ -17,7 +17,7 @@
 
 If you find the work presented and codes useful for your research then please cite the following Paper.
 
-  @article {ahmad2018human,
+  @article {ahmad2019human,
   
   author    = {Zeeshan Ahmad and Naimul Mefraz Khan},
   
