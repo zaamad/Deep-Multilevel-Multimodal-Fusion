@@ -1,6 +1,6 @@
 # Datasets and codes for Human Action Recognition Using Deep Multilevel Multimodal (M2) Fusion of Depth and Inertial Sensors (recently published in the IEEE Sensors Journal)
 
-1)	Download the datsets from the link : https://www.kaggle.com/zaamad/deep-multilevel-fusion-datasets-and-codes
+1)	Download the datsets from the link : https://www.kaggle.com/zaamad/deepmultilevelfusiondatasetsandcodes
 2)	 The ImageFolders_KinectV2Dataset folder has all the images related to Kinect V2 dataset.
 3)	 To run the code on Matlab, Place all the subfolders of  folder “ImageFolders_KinectV2Dataset” and  matlab files on same Matlab’s working directory.
 4)	Run the Matlab file “ FirstDeepFusionFramework.m” to see the results about the accuracy of 
