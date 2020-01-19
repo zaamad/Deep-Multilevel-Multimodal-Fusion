@@ -22,8 +22,9 @@ If you find the work presented and codes useful for your research then please ci
   
   journal={IEEE Sensors Journal},
   
-  year      = {2019},
-  
-  publisher = {IEEE},
-  
-}
+  Issue Date: FEBRUARY 1, 2020
+  Volume: 20, Issue:3
+  On Page(s): 1445-1455
+  Print ISSN: 1530-437X
+  Online ISSN: 1558-1748
+  Digital Object Identifier: 10.1109/JSEN.2019.2947446
